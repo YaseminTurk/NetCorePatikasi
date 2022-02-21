@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{5565D59F-BE8E-4820-96E8-6005F453207A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{E9DAF458-AD42-4B2A-A311-A958BF3F4E94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{E9DAF458-AD42-4B2A-A311-A958BF3F4E94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{F36DF080-CDC6-4EF2-99AF-F1D91E9FA776}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{F36DF080-CDC6-4EF2-99AF-F1D91E9FA776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseIf", "IfElseIf\IfElseIf.csproj", "{3F13D058-98A2-449F-8B58-7D39147A80D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F36DF080-CDC6-4EF2-99AF-F1D91E9FA776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F36DF080-CDC6-4EF2-99AF-F1D91E9FA776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F36DF080-CDC6-4EF2-99AF-F1D91E9FA776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F13D058-98A2-449F-8B58-7D39147A80D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F13D058-98A2-449F-8B58-7D39147A80D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F13D058-98A2-449F-8B58-7D39147A80D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F13D058-98A2-449F-8B58-7D39147A80D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
