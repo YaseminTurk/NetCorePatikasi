@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseIf", "IfElseIf\IfElse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{BAE1B6CA-13C4-47DC-A6C1-4865523BDA95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DongulerForLoop", "DongulerForLoop\DongulerForLoop.csproj", "{237C6900-D691-4B10-9D91-7AAD4A4D44B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BAE1B6CA-13C4-47DC-A6C1-4865523BDA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAE1B6CA-13C4-47DC-A6C1-4865523BDA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAE1B6CA-13C4-47DC-A6C1-4865523BDA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237C6900-D691-4B10-9D91-7AAD4A4D44B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237C6900-D691-4B10-9D91-7AAD4A4D44B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237C6900-D691-4B10-9D91-7AAD4A4D44B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237C6900-D691-4B10-9D91-7AAD4A4D44B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
