@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{62A79FE8-A3E2-4774-80E8-F2AF4383460A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorler", "Operatorler\Operatorler.csproj", "{5565D59F-BE8E-4820-96E8-6005F453207A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{5565D59F-BE8E-4820-96E8-6005F453207A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{E9DAF458-AD42-4B2A-A311-A958BF3F4E94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5565D59F-BE8E-4820-96E8-6005F453207A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5565D59F-BE8E-4820-96E8-6005F453207A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5565D59F-BE8E-4820-96E8-6005F453207A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DAF458-AD42-4B2A-A311-A958BF3F4E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DAF458-AD42-4B2A-A311-A958BF3F4E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DAF458-AD42-4B2A-A311-A958BF3F4E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DAF458-AD42-4B2A-A311-A958BF3F4E94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
