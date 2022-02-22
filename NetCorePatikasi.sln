@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DizilerArraySinifi", "Dizil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{B03213DD-6E92-4C2B-B5F6-5FAD09DAABA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotlarOverloading", "MetotlarOverloading\MetotlarOverloading.csproj", "{8E048825-3D84-4961-AC34-25C3A6D8A8B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B03213DD-6E92-4C2B-B5F6-5FAD09DAABA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B03213DD-6E92-4C2B-B5F6-5FAD09DAABA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B03213DD-6E92-4C2B-B5F6-5FAD09DAABA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E048825-3D84-4961-AC34-25C3A6D8A8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E048825-3D84-4961-AC34-25C3A6D8A8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E048825-3D84-4961-AC34-25C3A6D8A8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E048825-3D84-4961-AC34-25C3A6D8A8B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
