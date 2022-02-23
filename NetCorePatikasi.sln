@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirMetotlarDateTimeMath",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{AD2A2C84-3008-4E76-809F-2624F5B51DAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLists", "ArrayList\ArrayLists.csproj", "{EAE93DB1-8AFF-43A6-BDCF-DD06BB05C7F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{AD2A2C84-3008-4E76-809F-2624F5B51DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD2A2C84-3008-4E76-809F-2624F5B51DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD2A2C84-3008-4E76-809F-2624F5B51DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE93DB1-8AFF-43A6-BDCF-DD06BB05C7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE93DB1-8AFF-43A6-BDCF-DD06BB05C7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE93DB1-8AFF-43A6-BDCF-DD06BB05C7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE93DB1-8AFF-43A6-BDCF-DD06BB05C7F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
