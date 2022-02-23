@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-3", "Kol
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KoleksiyonOdevleri", "KoleksiyonOdevleri", "{91845B6B-7009-4117-BED7-4517C1D99A8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinifKavrami", "SinifKavrami\SinifKavrami.csproj", "{4DC4BD10-2BE3-4EEF-BF08-AC1FEFAD5307}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,10 @@ Global
 		{FA21DBB4-35DF-4B6B-B955-5B0EFDC98713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA21DBB4-35DF-4B6B-B955-5B0EFDC98713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA21DBB4-35DF-4B6B-B955-5B0EFDC98713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC4BD10-2BE3-4EEF-BF08-AC1FEFAD5307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC4BD10-2BE3-4EEF-BF08-AC1FEFAD5307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC4BD10-2BE3-4EEF-BF08-AC1FEFAD5307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC4BD10-2BE3-4EEF-BF08-AC1FEFAD5307}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
