@@ -23,6 +23,8 @@ namespace Inheritance
             ordek.Yuzmek();
         }
     }
+
+    //bir class sealed ile işaretlendiyse hiçbir yerden ulaşılamaz. yani kalıtım engellenir.
     public class Canlilar
     {
         public void Beslenme()
@@ -39,6 +41,11 @@ namespace Inheritance
         {
             Console.WriteLine("Canlılar boşaltım Yapar.");
         }
+        public virtual void UyaranlaraTepki()
+        {
+            Console.WriteLine("Canlılar uyaranlara tepki verir.");
+        }
+
     }
 
     public class Hayvanlar : Canlilar
@@ -46,6 +53,11 @@ namespace Inheritance
         public void SuruHalindeHareket()
         {
             Console.WriteLine("Hayvanlar sürüler halinde hareket eder.");
+        }
+        public override void UyaranlaraTepki()
+        {
+            //base.UyaranlaraTepki();
+            Console.WriteLine("Hayvanlar temasa tepki verir.");
         }
     }
 
@@ -72,6 +84,7 @@ namespace Inheritance
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlaraTepki();
         }
         public void Yuzmek()
         {
@@ -93,6 +106,11 @@ namespace Inheritance
         {
             Console.WriteLine("Bitkiler fotosentez yapar.");
         }
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki();
+            Console.WriteLine("Bitkiler güneşe tepki verir.");
+        }
     }
 
     public class TohumluBitkiler : Bitkiler
@@ -103,6 +121,7 @@ namespace Inheritance
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlaraTepki();
         }
         public void TohumlaCogalma()
         {
