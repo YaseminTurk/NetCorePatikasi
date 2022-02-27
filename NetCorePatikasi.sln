@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesOrnek", "InterfacesOrnek\InterfacesOrnek.csproj", "{7EBC3FB9-9CCB-4DB3-971E-824F482AA8EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,6 +193,10 @@ Global
 		{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBC3FB9-9CCB-4DB3-971E-824F482AA8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBC3FB9-9CCB-4DB3-971E-824F482AA8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBC3FB9-9CCB-4DB3-971E-824F482AA8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBC3FB9-9CCB-4DB3-971E-824F482AA8EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
