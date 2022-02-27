@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumKavrami", "EnumKavrami\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{583D05C7-A842-4DD7-A447-143D04E0F597}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +187,10 @@ Global
 		{583D05C7-A842-4DD7-A447-143D04E0F597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{583D05C7-A842-4DD7-A447-143D04E0F597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{583D05C7-A842-4DD7-A447-143D04E0F597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FE3E04-25A7-4DF6-B3CB-FFCBF08B7115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
