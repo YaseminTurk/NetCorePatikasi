@@ -69,7 +69,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesOrnek", "Interfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{CD07BDEF-5260-4895-AE57-2CF8DEFAAAB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonRehberiUygulaması", "TelefonRehberiUygulaması\TelefonRehberiUygulaması.csproj", "{629FFC33-5E1A-422E-8723-1A9C10EF40AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonRehberiUygulamasi", "TelefonRehberiUygulaması\TelefonRehberiUygulamasi.csproj", "{629FFC33-5E1A-422E-8723-1A9C10EF40AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

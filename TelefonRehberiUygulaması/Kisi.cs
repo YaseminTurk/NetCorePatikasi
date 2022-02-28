@@ -1,4 +1,4 @@
-﻿namespace TelefonRehberiUygulaması
+﻿namespace TelefonRehberiUygulamasi
 {
     class Kisi
     {

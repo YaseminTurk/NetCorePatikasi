@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace TelefonRehberiUygulaması
+namespace TelefonRehberiUygulamasi
 {
     class Program
     {
